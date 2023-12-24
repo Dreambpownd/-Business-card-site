@@ -1,0 +1,5 @@
+body {
+    background-image: url(../images/BG.jpg); /* Адрес картинки */
+    background-size: 100%; /* Ширина картинки */
+    opacity: 1.3;
+   }

@@ -1,0 +1,9 @@
+p,
+h1,
+h2,
+a,
+address,
+span {
+    font-size: 1.7rem;
+    color: #ffffff; /* Цвет текста */
+  }
